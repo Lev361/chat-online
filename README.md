@@ -3,9 +3,9 @@
 
 # USO
 
-<h2> git clone https://github.com/Lev361/chat-online </h2>
+<h4> git clone https://github.com/Lev361/chat-online </h4>
 
-- pkg install nodejs
+<h4> - pkg install nodejs </h4>
           &
     node index.js
 

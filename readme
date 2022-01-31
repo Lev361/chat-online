@@ -1,3 +1,10 @@
-##AULA DA ROCKETSEAT
+#AULA DA ROCKETSEAT
 
 - Chat em tempo real com nodeJS + Socket.io | Diego Fernandes
+
+# USO
+
+#TERMUX & WINDOWS
+
+- node index.js
+

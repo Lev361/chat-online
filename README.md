@@ -3,9 +3,7 @@
 
 # USO
 
-# Termux & Windows 
-
-- git clone https://github.com/Lev361/chat-online
+<h2> git clone https://github.com/Lev361/chat-online </h2>
 
 - pkg install nodejs
           &
